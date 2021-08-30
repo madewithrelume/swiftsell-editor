@@ -1,7 +1,7 @@
 ---
 blocks:
-  - tagline: ''
-    headline: Welcome to the Tina Starter.
+  - tagline: '#1 E-Commerce Platform in South Africa'
+    headline: Swiftsell
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
